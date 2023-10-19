@@ -1,2 +1,35 @@
 # Assets
-Open 3D Engine exploratory tests
+
+### Open 3D Engine exploratory tests
+
+The following project is not meant for production use. These are merely proof-of-concept tests, or exploratory-tests, due to a lack of official documentation and tutorials.
+
+For more content regarding O3DE check my channel here [rzDmyth](https://www.youtube.com/@rzDmyth), O3DE official youtube channel here [Open3DEngine](https://www.youtube.com/@Open3DEngine) or O3DE official website here [O3DE](https://o3de.org/).
+
+I will post more projects on GitHub if I manage to fix the issues of the first one presented below.
+
+<details> 
+<summary> Character Camera 088 </summary>
+
+### Initial objectives
+| Issues & Goals	| . | Description 	| Prototype (Version 0.1) |
+| ------------- |:-------------:|:-------------:|:-------------:|
+| FPS & 3PP camera | . | Lua scripts and input bindings capable of controlling the character camera with the mouse. Shifting the camera(s) view is done with a key-event (F4) | Prototyped |
+| Lack of limiters | . | Issue: no clamp in the angles. The camera can rotate beyond expected behaviours | TODO |
+| | . | | |
+| Rotation of Objects | . |  | Prototyped |
+| Cannot be reused | . | Issue: if you assign the same script to more than one Lua Script Component, only one object rotates | TODO |
+| | . | | |
+
+</details>
+
+<details> 
+<summary> TODO: Next project is moved here after the previous one is stable </summary>
+
+### Initial objectives
+| Issues & Goals	| . | Description 	| Prototype (Version 0.1) |
+| ------------- |:-------------:|:-------------:|:-------------:|
+| | . | | |
+
+
+</details>
