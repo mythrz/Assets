@@ -8,8 +8,14 @@ For more content regarding O3DE check my channel here [rzDmyth](https://www.yout
 
 I will post more projects on GitHub if I manage to fix the issues of the first one presented below.
 
+---
+
+### Control your character camera with your mouse
+
 <details> 
 <summary> Character Camera 088 </summary>
+
+The very first prototype is showcased in this YouTube video: [Camera Rotation (FPS/3PP)](https://www.youtube.com/watch?v=2CHfPDAxNts&t=312s&ab_channel=rzDmyth) 
 
 ### Initial objectives
 | Issues & Goals	| . | Description 	| Prototype (Version 0.1) |
@@ -17,11 +23,16 @@ I will post more projects on GitHub if I manage to fix the issues of the first o
 | FPS & 3PP camera | . | Lua scripts and input bindings capable of controlling the character camera with the mouse. Shifting the camera(s) view is done with a key-event (F4) | Prototyped |
 | Lack of limiters | . | Issue: no clamp in the angles. The camera can rotate beyond expected behaviours | TODO |
 | | . | | |
-| Rotation of Objects | . |  | Prototyped |
+| Rotation of Objects | . | Rotate an object on its own axis. As if it is an item on display | Prototyped |
 | Cannot be reused | . | Issue: if you assign the same script to more than one Lua Script Component, only one object rotates | TODO |
 | | . | | |
 
+---
 </details>
+
+---
+
+### TODO
 
 <details> 
 <summary> TODO: Next project is moved here after the previous one is stable </summary>
@@ -31,5 +42,5 @@ I will post more projects on GitHub if I manage to fix the issues of the first o
 | ------------- |:-------------:|:-------------:|:-------------:|
 | | . | | |
 
-
+---
 </details>
