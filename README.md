@@ -6,7 +6,7 @@ The following project is not meant for production use. These are merely proof-of
 
 For more content regarding O3DE check my channel here [rzDmyth](https://www.youtube.com/@rzDmyth), O3DE official youtube channel here [Open3DEngine](https://www.youtube.com/@Open3DEngine) or O3DE official website here [O3DE](https://o3de.org/).
 
-I will post more projects on GitHub if I manage to fix the issues of the first one presented below.
+Has similar licenses to the O3DE for convenience.
 
 ---
 
