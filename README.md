@@ -21,10 +21,10 @@ The very first prototype is showcased in this YouTube video: [Camera Rotation (F
 | Issues & Goals	| . | Description 	| Prototype (Version 0.1) |
 | ------------- |:-------------:|:-------------:|:-------------:|
 | FPS & 3PP camera | . | Lua scripts and input bindings capable of controlling the character camera with the mouse. Shifting the camera(s) view is done with a key-event (F4) | Prototyped |
-| Lack of limiters | . | Issue: no clamp in the angles. The camera can rotate beyond expected behaviors | TODO |
+| Limiters | . | Issue: no clamp in the angles. The camera can rotate beyond expected behaviors | TODO |
 | | . | | |
 | Rotation of Objects | . | Rotate an object on its own axis. As if it is an item on display | Prototyped |
-| Cannot be reused | . | Issue: if you assign the same script to more than one Lua Script Component, only one object rotates | TODO |
+| Reuseability | . | Issue: if you assign the same script to more than one Lua Script Component, only one object rotates | TODO |
 | | . | | |
 | Observer | . | Script for logging. Centralized functions to warn and message the developer through the console | Prototyped |
 | Observer Improvements | . | Further improve the observer with additional functions or a completely alternative method (more independent) | TODO |
