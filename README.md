@@ -1,6 +1,6 @@
 # Assets
 
-### Open 3D Engine exploratory tests
+### [Open 3D Engine exploratory tests](https://www.youtube.com/@rzDmyth/videos)
 
 The following project is not meant for production use. These are merely proof-of-concept tests, or exploratory-tests, due to a lack of official documentation and tutorials.
 
